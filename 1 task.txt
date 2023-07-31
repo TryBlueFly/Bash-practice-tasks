@@ -1,0 +1,1 @@
+alias mydocs='ls /home/$(whoami)/Documents'
